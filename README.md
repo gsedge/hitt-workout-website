@@ -2,12 +2,11 @@
 
 ## For running the code
 You will need to run the folling commands to run this wesbite
-- npm init
+- npm install
 - npm run setup
 - npm start
 
 This will run the server on port 8080
-
 - There is a test account with the credentials: username= "test", password: "test"
 
 
