@@ -1,8 +1,14 @@
 # HIIT up2120601
 
 ## For running the code
-- npm run setup will be required in order for the database and express to be a dependency
-- I have left a test account in the database for an easy way to see the implemtation of my project with the credentials: username= "test", password: "test", however you can also just create an account and test it yourself too.  
+You will need to run the folling commands to run this wesbite
+- npm init
+- npm run setup
+- npm start
+
+This will run the server on port 8080
+
+- There is a test account with the credentials: username= "test", password: "test"
 
 
 
